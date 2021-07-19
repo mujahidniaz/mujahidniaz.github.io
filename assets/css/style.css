@@ -335,11 +335,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 15px;
 }
 
+
 #hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 64px;
-  font-family: "Satisfy", serif;
-  color: #fff;
+    margin: 0 0 10px 0;
+    font-size: 136px;
+    margin-top: 21%;
+    font-family: "Satisfy", serif;
+    color: #fff;
 }
 
 #hero h2 {
