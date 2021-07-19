@@ -16,6 +16,7 @@ body {
 a {
   color: #ffb727;
   text-decoration: none;
+  overflow-wrap: anywhere;
 }
 
 a:hover {
@@ -445,10 +446,11 @@ section {
   z-index: 2;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 475px) {
   .section-title h2 {
     font-size: 28px;
     margin-bottom: 15px;
+    overflow-wrap: anywhere;
   }
   .section-title span {
     font-size: 38px;
