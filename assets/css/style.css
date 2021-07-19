@@ -374,8 +374,8 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 575px) {
   #hero h1 {
     font-family: Tangerine;
-    font-size: 60px;
-    margin-top: 40%;
+    font-size: 70px;
+    margin-top: 70%;
   }
   #hero h2 {
     text-align: center;
